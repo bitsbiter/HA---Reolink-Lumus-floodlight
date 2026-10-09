@@ -1,0 +1,13 @@
+{
+  "domain": "reolink_lumus_light",
+  "name": "Reolink Lumus floodlight",
+  "codeowners": ["@bitsbiter"],
+  "config_flow": true,
+  "dependencies": ["reolink"],
+  "documentation": "https://github.com/bitsbiter/HA---Reolink-Lumus-floodlight",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/bitsbiter/HA---Reolink-Lumus-floodlight/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}
